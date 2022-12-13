@@ -1,7 +1,8 @@
 ## Omak Oberes
 
-## *contact* 
+## *contact*
 Discord: Omak Oberes#7141
+
 nick on rs-school server: ALIAKSEI (@monaxovdulov)
 
 
@@ -14,29 +15,29 @@ in my work i would like the following things to converge:
 I easily immerse myself in new things and constantly learn.
 
 ## *skills*
-*langueges*:
-HTML5 CSS3
-JS (basic)
-Python
+*languages*:
+- HTML5
+- CSS3
+- JS (basic)
+- Python
 
 *framework and libs:*
-Flask, django (basic), fast api (basic)
-asyncio (basic)
-aiogram
+- Flask
+- Django (basic)
+- Fast API (basic)
+- Asyncio (basic)
+- Aiogram
 
 *other:*
-telegram bot api
-git 
-PostgreSQL (basic)
-linux (basic)
+- telegram bot api
+- git
+- PostgreSQL (basic)
+- linux (basic)
 
 *metodology:*
-TDD 
-Agile
-waterfall с элементами agile
-MVP
-в идеале в изначальном решении следует подумать не только об MVP, чтобы потом не приваривать крышу к велосипеду
-скрам
+- TDD
+- Agile
+
 
 
 ## *example code*
@@ -51,7 +52,7 @@ codewars
 	- stepik
 	- BOTHFATHER DEV
 	- KTS
-- Books
+- **Books**
 
 ## *english*
 A1 ( in the process studying)
